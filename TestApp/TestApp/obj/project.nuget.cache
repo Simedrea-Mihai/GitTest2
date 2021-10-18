@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1EH+tSiSovFsaxGR+iZGGip9g9hTEpzVKFt3f5oQ3nWtt4W0JGlqlKNnn3aBzFYRQIlGA+u0RkjAMai9Yfy/g==",
+  "success": true,
+  "projectFilePath": "D:\\AMDARIS\\Internship\\M1\\Version Control System\\User1\\GitTest2\\TestApp\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
