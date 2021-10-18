@@ -8,6 +8,9 @@ namespace TestApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello world! 2");
+
+            while (true)
+                Console.WriteLine("test");
         }
     }
 }
